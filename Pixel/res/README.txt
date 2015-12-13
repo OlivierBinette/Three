@@ -1,0 +1,1 @@
+Thanks to anefzaoui for the sprites and audio : https://github.com/anefzaoui/FlappyBirdsB2G
