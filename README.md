@@ -1,4 +1,6 @@
 # Pixel
-A weekend experiment (unfinished). The goal was to play with a simple 2D « game engine » concept. The rendering and animation systems works, but the timing is unstable. A simple demonstration - Flappy Bird clone based - runs on Firefox (press [space] to fly).
+Prototype of a 2d web game engine. The rendering and animation system works, but physics have not been implemented. 
+
+A simple demonstration (Flappy Bird clone) runs on Firefox (press [space] to fly).
 
 DISCLAIMER : The graphic art is not mine and is used for learning and testing purposes only.
